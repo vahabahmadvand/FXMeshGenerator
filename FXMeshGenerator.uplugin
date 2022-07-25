@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "FXMeshGenerator",
+	"Description": "A simple tool that lets you make a custom mesh for VFX purposes.",
+	"Category": "FX",
+	"CreatedBy": "vahabahmadvand",
+	"CreatedByURL": "https://github.com/vahabahmadvand/FXMeshGenerator",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.0.0",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"Installed": true,
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true
+		},
+		{
+			"Name": "GeometryScripting",
+			"Enabled": true
+		}
+	]
+}
