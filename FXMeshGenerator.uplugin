@@ -5,7 +5,7 @@
 	"FriendlyName": "FXMeshGenerator",
 	"Description": "A simple tool that lets you make a custom mesh for VFX purposes.",
 	"Category": "FX",
-	"CreatedBy": "vahabahmadvand",
+	"CreatedBy": "vahab ahmadvand",
 	"CreatedByURL": "https://github.com/vahabahmadvand/FXMeshGenerator",
 	"DocsURL": "",
 	"MarketplaceURL": "",
@@ -23,5 +23,6 @@
 			"Name": "GeometryScripting",
 			"Enabled": true
 		}
-	]
+	],
+	"IsExperimentalVersion": false
 }
