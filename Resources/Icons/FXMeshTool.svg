@@ -1,0 +1,13 @@
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Trailing Swept Slash Shell (50% opacity for UE5 two-tone depth) -->
+  <path opacity="0.5" d="M2.2 14.2C3.8 17.2 7.5 18.8 11.6 18.0C15.9 17.1 18.8 13.3 18.4 9.0C18.2 6.8 17.1 5.0 15.6 3.7C16.2 6.0 15.4 8.9 13.2 11.1C10.5 13.8 6.4 14.9 2.2 14.2Z" fill="white"/>
+  <!-- Leading Sharp Crescent Slash Edge -->
+  <path d="M2.0 14.0C5.8 14.4 9.8 13.0 12.6 10.2C14.7 8.1 15.7 5.5 15.4 3.2C17.4 4.8 18.6 7.2 18.6 9.8C18.6 14.5 14.8 18.3 10.0 18.3C6.5 18.3 3.4 16.6 2.0 14.0Z" stroke="white" stroke-width="1.3" stroke-linejoin="round"/>
+  <!-- Subtle Mesh Rib Subdivision Lines -->
+  <path d="M9.8 13.6L11.2 17.7" stroke="white" stroke-width="1.1" stroke-linecap="round"/>
+  <path d="M13.6 10.6L16.7 13.5" stroke="white" stroke-width="1.1" stroke-linecap="round"/>
+  <!-- Primary 4-Point VFX Sparkle -->
+  <path d="M6.5 1.5L7.55 4.45L10.5 5.5L7.55 6.55L6.5 9.5L5.45 6.55L2.5 5.5L5.45 4.45L6.5 1.5Z" fill="white"/>
+  <!-- Secondary Small Sparkle -->
+  <path opacity="0.65" d="M12.2 1.2L12.7 2.5L14.0 3.0L12.7 3.5L12.2 4.8L11.7 3.5L10.4 3.0L11.7 2.5L12.2 1.2Z" fill="white"/>
+</svg>

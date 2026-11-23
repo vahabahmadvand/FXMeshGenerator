@@ -10,10 +10,16 @@
 	"DocsURL": "",
 	"MarketplaceURL": "",
 	"SupportURL": "",
-	"EngineVersion": "5.0.0",
 	"CanContainContent": true,
 	"IsBetaVersion": true,
 	"Installed": true,
+	"Modules": [
+		{
+			"Name": "FXMeshGeneratorEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
